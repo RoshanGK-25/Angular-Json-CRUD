@@ -1,0 +1,46 @@
+{
+  "profile": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "properties": [
+    {
+      "id": 1,
+      "ptitle": "RK's Properties",
+      "price": "1000000",
+      "plocation": "Maharashtra",
+      "pdetails": "3 Bhk"
+    },
+    {
+      "id": 2,
+      "ptitle": "RK's Residancies",
+      "price": "1500000",
+      "plocation": "Maharashtra",
+      "pdetails": "5 Bhk"
+    },
+    {
+      "id": 3,
+      "ptitle": "Sham Villa",
+      "price": "200000 ",
+      "plocation": "Maharashtra",
+      "pdetails": "1 Bhk"
+    },
+    {
+      "id": 4,
+      "ptitle": "Amol's Dan",
+      "price": "2500000",
+      "plocation": "Maharashtra",
+      "pdetails": "Pine"
+    }
+  ]
+}

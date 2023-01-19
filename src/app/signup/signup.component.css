@@ -1,0 +1,11 @@
+.login-sec{
+    padding: 10rem;
+    background-image: url("/assets/Images/bg-properties.png");
+    background-size: cover;
+}
+.form-container{
+    width: 40%;
+    background-color: antiquewhite;
+    padding: 3rem;
+    box-shadow: 5px 5px 30px rgba(0,0,0.3);
+}
