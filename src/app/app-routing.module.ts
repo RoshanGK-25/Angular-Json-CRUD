@@ -5,10 +5,10 @@ import { PropertiesComponent } from './properties/properties.component';
 import { SignupComponent } from './signup/signup.component';
 
 const routes: Routes = [
-  { path: '', redirectTo: 'login', pathMatch: 'full' },
-  { path: 'login', component: LoginComponent },
-  { path: 'signup', component: SignupComponent },
-  {path:'properties', component: PropertiesComponent }
+  // { path: '', redirectTo: 'login', pathMatch: 'full' },
+  // { path: 'login', component: LoginComponent },
+  // { path: 'signup', component: SignupComponent },
+  {path:'', redirectTo: 'properies', pathMatch: 'full' }
 ];
 
 @NgModule({
